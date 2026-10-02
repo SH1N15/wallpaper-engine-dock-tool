@@ -1,0 +1,19 @@
+{
+	"dependencies" : 
+	[
+		"materials/effects/qiu.json",
+		"shaders/effects/qiu.frag",
+		"shaders/effects/qiu.vert"
+	],
+	"editable" : true,
+	"group" : "localeffects",
+	"name" : "QIU",
+	"passes" : 
+	[
+		{
+			"material" : "materials/effects/qiu.json"
+		}
+	],
+	"replacementkey" : "qiu",
+	"version" : 1
+}

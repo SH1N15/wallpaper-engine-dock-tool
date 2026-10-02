@@ -1,0 +1,3772 @@
+{
+	"approved" : true,
+	"contentrating" : "Everyone",
+	"description" : "动态交互制作：Hope麻匪\nDynamic Interaction Production: Hope麻匪\n\nDock栏由seekay 开发：The Dock bar was developed by seekay: \nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3573886911",
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"cuxian1" : 
+			{
+				"index" : 8,
+				"order" : 108,
+				"text" : "<img src=\"https://i.ibb.co/TqxxhG8b/image.gif\" width=\"105%\" />",
+				"type" : "text"
+			},
+			"cuxian10" : 
+			{
+				"index" : 231,
+				"order" : 331,
+				"text" : "<img src=\"https://i.ibb.co/SDvx4473/image.gif\" width=\"105%\" />",
+				"type" : "text",
+				"value" : false
+			},
+			"cuxian2" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "<img src=\"https://i.ibb.co/TqxxhG8b/image.gif\" width=\"105%\" />",
+				"type" : "text",
+				"value" : false
+			},
+			"cuxian3" : 
+			{
+				"index" : 199,
+				"order" : 299,
+				"text" : "<img src=\"https://i.ibb.co/SDvx4473/image.gif\" width=\"105%\" />",
+				"type" : "text",
+				"value" : false
+			},
+			"cuxian5" : 
+			{
+				"index" : 310,
+				"order" : 410,
+				"text" : "<img src=\"https://i.ibb.co/SDvx4473/image.gif\" width=\"105%\" />",
+				"type" : "text",
+				"value" : false
+			},
+			"cuxian6" : 
+			{
+				"index" : 34,
+				"order" : 134,
+				"text" : "<img src=\"https://i.ibb.co/SDvx4473/image.gif\" width=\"105%\" />",
+				"type" : "text",
+				"value" : false
+			},
+			"cuxian7" : 
+			{
+				"index" : 270,
+				"order" : 370,
+				"text" : "<img src=\"https://i.ibb.co/SDvx4473/image.gif\" width=\"105%\" />",
+				"type" : "text",
+				"value" : false
+			},
+			"cuxian8" : 
+			{
+				"index" : 307,
+				"order" : 407,
+				"text" : "<img src=\"https://i.ibb.co/SDvx4473/image.gif\" width=\"105%\" />",
+				"type" : "text",
+				"value" : false
+			},
+			"cuxian9" : 
+			{
+				"index" : 25,
+				"order" : 125,
+				"text" : "<font color=#4183F5>  <h5>模糊性适用于【自定义背景】让背景整体变得柔和     <br>Applying blurriness to the [Custom Background] makes the entire background softer. </h5>",
+				"type" : "text",
+				"value" : false
+			},
+			"erweima" : 
+			{
+				"index" : 9,
+				"order" : 109,
+				"text" : "<br/><br><a href=''><img src=\"https://i.ibb.co/nNdQ1qyJ/image.gif\" width=\"100%\"></a><br/><br><br>",
+				"type" : "text",
+				"value" : false
+			},
+			"erweimas" : 
+			{
+				"index" : 308,
+				"order" : 408,
+				"text" : "<a href=''><img src=\"https://i.ibb.co/S4S7wxtZ/image.png\" width=\"100%\"></a>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong1" : 
+			{
+				"index" : 7,
+				"order" : 107,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong11" : 
+			{
+				"index" : 232,
+				"order" : 332,
+				"text" : "<h3>🎵媒体播放器<br/>Media Player</h3>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong12" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 223,
+				"order" : 323,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong13" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 227,
+				"order" : 327,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong14" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 240,
+				"order" : 340,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong15" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 251,
+				"order" : 351,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong16" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 243,
+				"order" : 343,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong17" : 
+			{
+				"index" : 295,
+				"order" : 395,
+				"text" : "<h3>⏱️运行时长<br/>Running duration</h3>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong18" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 235,
+				"order" : 335,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong19" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 265,
+				"order" : 365,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong2" : 
+			{
+				"index" : 5,
+				"order" : 105,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong20" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 259,
+				"order" : 359,
+				"text" : "<font color=#F8312F>  <h4>     提示：<br>跟着蓝色文字操作 否则不生效<br><br>Tip: Operate according to the blue text, otherwise it won't take effect. <br>🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻</h4>  <font color=#4183F5>  <h5>      这里提供一个连接 里面涵盖<br>播放 暂停 上一首 下一首命令 和 使用教程<br>粘贴后即可使用<br>     <br>     Here is a link which includes commands for <br> play, pause, previous track, next track, along with a usage tutorial. <br> You can use it after pasting.<br> </h5>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong21" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 260,
+				"order" : 360,
+				"text" : "<h4><center><u>  <a href='https://www.bilibili.com/opus/1108787430017728514'>【点击跳转教学  Click to jump】</a></u></center></h4>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong22" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 267,
+				"order" : 367,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong23" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 263,
+				"order" : 363,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong24" : 
+			{
+				"index" : 271,
+				"order" : 371,
+				"text" : "<h3>🔵球 Ball</h3>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong25" : 
+			{
+				"index" : 31,
+				"order" : 131,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong26" : 
+			{
+				"index" : 24,
+				"order" : 124,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong27" : 
+			{
+				"index" : 294,
+				"order" : 394,
+				"text" : "<img src=\"https://i.ibb.co/SDvx4473/image.gif\" width=\"105%\" />",
+				"type" : "text",
+				"value" : false
+			},
+			"kong28" : 
+			{
+				"index" : 284,
+				"order" : 384,
+				"text" : "<h3>🎶音频 Audio</h3>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong29" : 
+			{
+				"index" : 210,
+				"order" : 310,
+				"text" : "<img src=\"https://i.ibb.co/SDvx4473/image.gif\" width=\"105%\" />",
+				"type" : "text",
+				"value" : false
+			},
+			"kong3" : 
+			{
+				"index" : 3,
+				"order" : 103,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong30" : 
+			{
+				"index" : 200,
+				"order" : 300,
+				"text" : "<h3>⌚时间 Time</h3>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong33" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 261,
+				"order" : 361,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong35" : 
+			{
+				"index" : 296,
+				"order" : 396,
+				"text" : "<font color=#4183F5> <h5> 默认显示位置在屏幕右上角<br>作为壁纸运行总时长<br>当壁纸设置为开机自启动 可大致判定你电脑开机多久     <br> The default display location is at the upper right corner of the screen.<br>It represents the total running time of the wallpaper.<br>When the wallpaper is set to start up automatically with the computer, it can roughly tell how long your computer has been booted up.</h5>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong37" : 
+			{
+				"condition" : "newproperty42.value == 2",
+				"index" : 13,
+				"order" : 113,
+				"text" : "<font color=#4183F5>  <h5>搭配上面的全局设置进行合理调节     <br>Make reasonable adjustments in conjunction with the above - mentioned global settings. </h5>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong47" : 
+			{
+				"condition" : "newproperty42.value == 2",
+				"index" : 15,
+				"order" : 115,
+				"text" : "<font color=#4183F5>  <h5>【调节大小】针对自定义背景<br>适合在不同尺寸显示器中进行放大缩�?br>调节合理 可适配多种横屏显示器尺�?br>包括�?6:9 16:10 21:9 32:9     <br><br>     [Size Adjustment] for Custom Background<br>It is suitable for zooming in and out on different - sized monitors.<br>With reasonable adjustment, it can adapt to various landscape - mode monitor sizes, <br>including 16:9, 16:10, 21:9, and 32:9. </h5>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong49" : 
+			{
+				"condition" : "newproperty31.value",
+				"index" : 300,
+				"order" : 400,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong5" : 
+			{
+				"index" : 1,
+				"order" : 101,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong55" : 
+			{
+				"index" : 283,
+				"order" : 383,
+				"text" : "<img src=\"https://i.ibb.co/SDvx4473/image.gif\" width=\"105%\" />",
+				"type" : "text",
+				"value" : false
+			},
+			"kong56" : 
+			{
+				"index" : 272,
+				"order" : 372,
+				"text" : "<font color=#4183F5>  <h5>额外的启动按钮 默认位于屏幕右下角     <br>The additional start button is by default located in the lower right corner of the screen. </h5>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong57" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 258,
+				"order" : 358,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong59" : 
+			{
+				"index" : 28,
+				"order" : 128,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"kong6" : 
+			{
+				"index" : 211,
+				"order" : 311,
+				"text" : "<h3>🗓️日历 Calendar</h3>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong60" : 
+			{
+				"index" : 311,
+				"order" : 411,
+				"text" : "<img src=\"https://i.ibb.co/9HKg11SY/image.gif\" width=\"100%\"/>",
+				"type" : "text",
+				"value" : false
+			},
+			"kong8" : 
+			{
+				"index" : 10,
+				"order" : 110,
+				"text" : "<h3>🧱背景 Back</h3>",
+				"type" : "text",
+				"value" : false
+			},
+			"lianjie2" : 
+			{
+				"index" : 312,
+				"order" : 412,
+				"text" : "<center> <a href='https://steamcommunity.com/sharedfiles/filedetails/?id=2860307735/'> <img src=\"https://i.ibb.co/Cs0sGBYN/image.gif\" width=\"100%\"/> </a> </center>",
+				"type" : "text",
+				"value" : false
+			},
+			"mafei20252" : 
+			{
+				"index" : 4,
+				"order" : 104,
+				"text" : "<center> <a href='https://space.bilibili.com/111174060/'>  <img src=\"https://i.ibb.co/6hsBG5h/image.gif\" width=\"100%\" /> </a> </center>",
+				"type" : "text",
+				"value" : false
+			},
+			"newproperty" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 226,
+				"order" : 326,
+				"text" : "◀️",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"newproperty1" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 219,
+				"order" : 319,
+				"text" : "ui_editor_properties_light",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty10" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 230,
+				"order" : 330,
+				"text" : "ui_browse_age_gate_modal_month",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"newproperty11" : 
+			{
+				"condition" : "",
+				"index" : 212,
+				"order" : 312,
+				"text" : "日历 Calendar",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty12" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 264,
+				"order" : 364,
+				"text" : "播放暂停 Play",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"newproperty13" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 266,
+				"order" : 366,
+				"text" : "上一首<br>music prev",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"newproperty14" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 268,
+				"order" : 368,
+				"text" : "下一首<br>music next”",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"newproperty15" : 
+			{
+				"condition" : "newproperty23.value&&newproperty16.value",
+				"index" : 242,
+				"order" : 342,
+				"text" : "ui_editor_script_snippet_drag_drop",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"newproperty16" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 241,
+				"order" : 341,
+				"text" : "ui_editor_script_snippet_drag_drop",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty17" : 
+			{
+				"condition" : "newproperty23.value",
+				"fraction" : true,
+				"index" : 234,
+				"max" : 1.5,
+				"min" : 0.3,
+				"order" : 334,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_size",
+				"type" : "slider",
+				"value" : 0.6
+			},
+			"newproperty18" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 262,
+				"order" : 362,
+				"text" : "按钮颜色 Button color",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"newproperty19" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 238,
+				"order" : 338,
+				"text" : "ui_editor_workshop_options_scheme_color",
+				"type" : "color",
+				"value" : "0.07450980392156863 0.07450980392156863 0.07450980392156863"
+			},
+			"newproperty2" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 221,
+				"order" : 321,
+				"text" : "ui_editor_script_snippet_drag_drop",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty20" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 237,
+				"order" : 337,
+				"text" : "ui_editor_workshop_options_scheme_color",
+				"type" : "color",
+				"value" : "0.5725490196078431 0.5725490196078431 0.5725490196078431"
+			},
+			"newproperty21" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 245,
+				"order" : 345,
+				"text" : "封面 Logo",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"newproperty22" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 249,
+				"order" : 349,
+				"text" : "ui_browse_properties_audio_recording",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"newproperty23" : 
+			{
+				"index" : 233,
+				"order" : 333,
+				"text" : "ui_settings_enable_media_integration_support",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty24" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 250,
+				"order" : 350,
+				"text" : "◀️",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"newproperty25" : 
+			{
+				"condition" : "newproperty23.value&&newproperty79.value!=0",
+				"index" : 255,
+				"order" : 355,
+				"text" : "ui_browse_properties_background_color",
+				"type" : "color",
+				"value" : "0.48627450980392156 0.48627450980392156 0.48627450980392156"
+			},
+			"newproperty26" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 256,
+				"order" : 356,
+				"text" : "ui_editor_properties_load",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"newproperty27" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 257,
+				"order" : 357,
+				"text" : "ui_editor_properties_point",
+				"type" : "color",
+				"value" : "0.20784313725490197 0.20784313725490197 0.20784313725490197"
+			},
+			"newproperty28" : 
+			{
+				"condition" : "newproperty42.value == 1",
+				"index" : 17,
+				"order" : 117,
+				"text" : "ui_editor_user_properties_type_color",
+				"type" : "color",
+				"value" : "0.45098039215686275 0.45098039215686275 0.45098039215686275"
+			},
+			"newproperty29" : 
+			{
+				"condition" : "newproperty42.value == 1",
+				"index" : 18,
+				"order" : 118,
+				"text" : "ui_editor_user_properties_type_color",
+				"type" : "color",
+				"value" : "0.45098039215686275 0.45098039215686275 0.45098039215686275"
+			},
+			"newproperty3" : 
+			{
+				"condition" : "newproperty11.value",
+				"fraction" : true,
+				"index" : 213,
+				"max" : 1.5,
+				"min" : 0.3,
+				"order" : 313,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_size",
+				"type" : "slider",
+				"value" : 0.6
+			},
+			"newproperty30" : 
+			{
+				"condition" : "newproperty42.value == 1",
+				"fraction" : true,
+				"index" : 19,
+				"max" : 5,
+				"min" : 0.1,
+				"order" : 119,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "ui_editor_scene_options_camera_shake_speed",
+				"type" : "slider",
+				"value" : 0.3
+			},
+			"newproperty31" : 
+			{
+				"index" : 297,
+				"order" : 397,
+				"text" : "ui_editor_particle_remap_value_option_runtime",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty32" : 
+			{
+				"condition" : "newproperty31.value",
+				"index" : 302,
+				"options" : 
+				[
+					{
+						"label" : "Chinese",
+						"value" : "1"
+					},
+					{
+						"label" : "English",
+						"value" : "2"
+					}
+				],
+				"order" : 402,
+				"text" : "ui_settings_ui_language",
+				"type" : "combo",
+				"value" : "2"
+			},
+			"newproperty33" : 
+			{
+				"condition" : "newproperty31.value",
+				"fraction" : false,
+				"index" : 304,
+				"max" : 3840,
+				"min" : 600,
+				"order" : 404,
+				"text" : "ui_editor_properties_pivot_offset_x",
+				"type" : "slider",
+				"value" : 3823
+			},
+			"newproperty34" : 
+			{
+				"condition" : "newproperty31.value",
+				"fraction" : false,
+				"index" : 305,
+				"max" : 2160,
+				"min" : 0,
+				"order" : 405,
+				"text" : "ui_editor_properties_pivot_offset_y",
+				"type" : "slider",
+				"value" : 2138
+			},
+			"newproperty35" : 
+			{
+				"condition" : "newproperty31.value",
+				"fraction" : false,
+				"index" : 306,
+				"max" : 32,
+				"min" : 4,
+				"order" : 406,
+				"text" : "ui_editor_properties_size",
+				"type" : "slider",
+				"value" : 6
+			},
+			"newproperty36" : 
+			{
+				"index" : 29,
+				"order" : 129,
+				"text" : "噪声 noise",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty37" : 
+			{
+				"condition" : "newproperty36.value",
+				"fraction" : true,
+				"index" : 30,
+				"max" : 1,
+				"min" : 0.1,
+				"order" : 130,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_alpha",
+				"type" : "slider",
+				"value" : 0.5
+			},
+			"newproperty38" : 
+			{
+				"index" : 32,
+				"order" : 132,
+				"text" : "ui_editor_effects_modal_group_blur",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty39" : 
+			{
+				"condition" : "newproperty38.value",
+				"fraction" : true,
+				"index" : 33,
+				"max" : 24,
+				"min" : 0.5,
+				"order" : 133,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "ui_editor_effects_modal_group_blur",
+				"type" : "slider",
+				"value" : 12
+			},
+			"newproperty4" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 217,
+				"order" : 317,
+				"text" : "ui_editor_workshop_options_scheme_color",
+				"type" : "color",
+				"value" : "0.07450980392156863 0.07450980392156863 0.07450980392156863"
+			},
+			"newproperty40" : 
+			{
+				"index" : 26,
+				"order" : 126,
+				"text" : "ui_editor_properties_fuzziness",
+				"type" : "bool",
+				"value" : false
+			},
+			"newproperty41" : 
+			{
+				"condition" : "newproperty40.value",
+				"fraction" : true,
+				"index" : 27,
+				"max" : 2,
+				"min" : 0.1,
+				"order" : 127,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_fuzziness",
+				"type" : "slider",
+				"value" : 1
+			},
+			"newproperty42" : 
+			{
+				"index" : 11,
+				"options" : 
+				[
+					{
+						"label" : "ui_editor_properties_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 111,
+				"text" : "ui_editor_properties_background",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"newproperty43" : 
+			{
+				"condition" : "newproperty42.value == 2",
+				"index" : 12,
+				"order" : 112,
+				"text" : "ui_workshop_tags_local",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"newproperty44" : 
+			{
+				"condition" : "",
+				"fraction" : true,
+				"index" : 14,
+				"max" : 1.6,
+				"min" : 0.5,
+				"order" : 114,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_size",
+				"type" : "slider",
+				"value" : 1
+			},
+			"newproperty45" : 
+			{
+				"condition" : "newproperty49.value",
+				"index" : 289,
+				"order" : 389,
+				"text" : "ui_editor_user_properties_type_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"newproperty46" : 
+			{
+				"condition" : "newproperty49.value",
+				"fraction" : false,
+				"index" : 291,
+				"max" : 3840,
+				"min" : 0,
+				"order" : 391,
+				"text" : "ui_editor_properties_pivot_offset_x",
+				"type" : "slider",
+				"value" : 1920
+			},
+			"newproperty47" : 
+			{
+				"condition" : "newproperty49.value",
+				"fraction" : false,
+				"index" : 292,
+				"max" : 2160,
+				"min" : 0,
+				"order" : 392,
+				"text" : "ui_editor_properties_pivot_offset_y",
+				"type" : "slider",
+				"value" : 470
+			},
+			"newproperty48" : 
+			{
+				"condition" : "newproperty49.value",
+				"fraction" : true,
+				"index" : 293,
+				"max" : 3,
+				"min" : 0.6,
+				"order" : 393,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_size",
+				"type" : "slider",
+				"value" : 1
+			},
+			"newproperty49" : 
+			{
+				"index" : 285,
+				"order" : 385,
+				"text" : "ui_browse_properties_audio_recording",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty5" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 225,
+				"order" : 325,
+				"text" : "ui_browse_playlist_modal_settings_transition_lines",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"newproperty50" : 
+			{
+				"condition" : "newproperty49.value",
+				"index" : 287,
+				"options" : 
+				[
+					{
+						"label" : "ui_editor_properties_normal",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_browse_properties_alignment_cover",
+						"value" : "2"
+					}
+				],
+				"order" : 387,
+				"text" : "ui_editor_properties_blend_mode",
+				"type" : "combo",
+				"value" : "2"
+			},
+			"newproperty51" : 
+			{
+				"condition" : "newproperty49.value",
+				"fraction" : true,
+				"index" : 288,
+				"max" : 0.01,
+				"min" : 0.001,
+				"order" : 388,
+				"precision" : 4,
+				"step" : 0.001,
+				"text" : "ui_browse_playlist_modal_settings_transition_lines",
+				"type" : "slider",
+				"value" : 0.003
+			},
+			"newproperty52" : 
+			{
+				"condition" : "newproperty54.value",
+				"fraction" : false,
+				"index" : 206,
+				"max" : 96,
+				"min" : 6,
+				"order" : 306,
+				"text" : "ui_editor_properties_size",
+				"type" : "slider",
+				"value" : 44
+			},
+			"newproperty53" : 
+			{
+				"condition" : "newproperty54.value",
+				"index" : 208,
+				"order" : 308,
+				"text" : "ui_editor_user_properties_type_color",
+				"type" : "color",
+				"value" : "0.16862745098039217 0.16862745098039217 0.16862745098039217"
+			},
+			"newproperty54" : 
+			{
+				"index" : 201,
+				"order" : 301,
+				"text" : "ui_editor_preset_clock_title",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty55" : 
+			{
+				"condition" : "newproperty23.value&&newproperty79.value!=0",
+				"fraction" : true,
+				"index" : 254,
+				"max" : 1,
+				"min" : 0,
+				"order" : 354,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_alpha",
+				"type" : "slider",
+				"value" : 1
+			},
+			"newproperty56" : 
+			{
+				"condition" : "",
+				"fraction" : true,
+				"index" : 23,
+				"max" : 1,
+				"min" : 0,
+				"order" : 123,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_blending_darken",
+				"type" : "slider",
+				"value" : 0
+			},
+			"newproperty57" : 
+			{
+				"condition" : "newproperty31.value",
+				"index" : 298,
+				"options" : 
+				[
+					{
+						"label" : "ui_editor_properties_normal",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_browse_properties_alignment_cover",
+						"value" : "2"
+					}
+				],
+				"order" : 398,
+				"text" : "ui_editor_properties_blend_mode",
+				"type" : "combo",
+				"value" : "2"
+			},
+			"newproperty58" : 
+			{
+				"condition" : "newproperty31.value",
+				"index" : 299,
+				"order" : 399,
+				"text" : "ui_editor_user_properties_type_color",
+				"type" : "color",
+				"value" : "0.16862745098039217 0.16862745098039217 0.16862745098039217"
+			},
+			"newproperty59" : 
+			{
+				"condition" : "newproperty60.value",
+				"index" : 274,
+				"order" : 374,
+				"text" : "ui_editor_user_properties_type_usershortcut",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"newproperty6" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 216,
+				"order" : 316,
+				"text" : "ui_editor_workshop_options_scheme_color",
+				"type" : "color",
+				"value" : "0.5725490196078431 0.5725490196078431 0.5725490196078431"
+			},
+			"newproperty60" : 
+			{
+				"index" : 273,
+				"order" : 373,
+				"text" : "ui_editor_preset_magic_vortex_orb",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty61" : 
+			{
+				"condition" : "newproperty60.value",
+				"fraction" : false,
+				"index" : 280,
+				"max" : 3840,
+				"min" : 0,
+				"order" : 380,
+				"text" : "ui_editor_properties_pivot_offset_x",
+				"type" : "slider",
+				"value" : 3700
+			},
+			"newproperty62" : 
+			{
+				"condition" : "newproperty60.value",
+				"fraction" : false,
+				"index" : 281,
+				"max" : 2160,
+				"min" : 0,
+				"order" : 381,
+				"text" : "ui_editor_properties_pivot_offset_y",
+				"type" : "slider",
+				"value" : 180
+			},
+			"newproperty63" : 
+			{
+				"condition" : "newproperty60.value",
+				"fraction" : true,
+				"index" : 282,
+				"max" : 2,
+				"min" : 0.4,
+				"order" : 382,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_size",
+				"type" : "slider",
+				"value" : 0.6
+			},
+			"newproperty64" : 
+			{
+				"condition" : "newproperty60.value",
+				"index" : 276,
+				"order" : 376,
+				"text" : "ui_editor_user_properties_type_color",
+				"type" : "color",
+				"value" : "0 1 1"
+			},
+			"newproperty65" : 
+			{
+				"condition" : "newproperty60.value",
+				"index" : 277,
+				"order" : 377,
+				"text" : "ui_editor_user_properties_type_color",
+				"type" : "color",
+				"value" : "1 0.25882352941176473 1"
+			},
+			"newproperty66" : 
+			{
+				"condition" : "newproperty60.value",
+				"index" : 278,
+				"order" : 378,
+				"text" : "ui_editor_user_properties_type_color",
+				"type" : "color",
+				"value" : "0.3137254901960784 0.3137254901960784 0.3137254901960784"
+			},
+			"newproperty67" : 
+			{
+				"condition" : "newproperty23.value&&newproperty68.value == false",
+				"index" : 247,
+				"order" : 347,
+				"text" : "ui_editor_properties_color",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"newproperty68" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 246,
+				"order" : 346,
+				"text" : "ui_editor_properties_perspective",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty69" : 
+			{
+				"condition" : "newproperty23.value",
+				"fraction" : true,
+				"index" : 248,
+				"max" : 1.1,
+				"min" : 0.6,
+				"order" : 348,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_welcome_modal_resize_toggle_label",
+				"type" : "slider",
+				"value" : 0.93
+			},
+			"newproperty7" : 
+			{
+				"condition" : "newproperty11.value&&newproperty2.value",
+				"index" : 222,
+				"order" : 322,
+				"text" : "ui_editor_script_snippet_drag_drop",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"newproperty70" : 
+			{
+				"condition" : "newproperty42.value == 1",
+				"index" : 16,
+				"order" : 116,
+				"text" : "ui_browse_properties_background_color",
+				"type" : "color",
+				"value" : "0.34509803921568627 0.34509803921568627 0.34509803921568627"
+			},
+			"newproperty71" : 
+			{
+				"condition" : "newproperty54.value",
+				"index" : 207,
+				"options" : 
+				[
+					{
+						"label" : "ui_editor_properties_normal",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_browse_properties_alignment_cover",
+						"value" : "2"
+					}
+				],
+				"order" : 307,
+				"text" : "ui_editor_properties_blend_mode",
+				"type" : "combo",
+				"value" : "2"
+			},
+			"newproperty72" : 
+			{
+				"index" : 20,
+				"order" : 120,
+				"text" : "ui_editor_preset_ember_description",
+				"type" : "bool",
+				"value" : false
+			},
+			"newproperty73" : 
+			{
+				"condition" : "newproperty11.value",
+				"fraction" : true,
+				"index" : 218,
+				"max" : 1,
+				"min" : 0,
+				"order" : 318,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_alpha",
+				"type" : "slider",
+				"value" : 0.8
+			},
+			"newproperty74" : 
+			{
+				"condition" : "newproperty23.value",
+				"fraction" : true,
+				"index" : 239,
+				"max" : 1,
+				"min" : 0,
+				"order" : 339,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_alpha",
+				"type" : "slider",
+				"value" : 0.8
+			},
+			"newproperty75" : 
+			{
+				"condition" : "newproperty54.value",
+				"fraction" : true,
+				"index" : 209,
+				"max" : 1,
+				"min" : 0,
+				"order" : 309,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_alpha",
+				"type" : "slider",
+				"value" : 1
+			},
+			"newproperty76" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 215,
+				"options" : 
+				[
+					{
+						"label" : "ui_editor_properties_normal",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_browse_properties_alignment_cover",
+						"value" : "2"
+					}
+				],
+				"order" : 315,
+				"text" : "ui_editor_properties_blend_mode",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"newproperty77" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 236,
+				"options" : 
+				[
+					{
+						"label" : "ui_editor_properties_normal",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_browse_properties_alignment_cover",
+						"value" : "2"
+					}
+				],
+				"order" : 336,
+				"text" : "ui_editor_properties_blend_mode",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"newproperty78" : 
+			{
+				"index" : 203,
+				"order" : 303,
+				"text" : "ui_editor_script_snippet_drag_drop",
+				"type" : "bool",
+				"value" : true
+			},
+			"newproperty79" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 253,
+				"order" : 353,
+				"text" : "ui_workshop_tags_background",
+				"type" : "bool",
+				"value" : false
+			},
+			"newproperty8" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 228,
+				"order" : 328,
+				"text" : "ui_browse_playlist_modal_settings_timing_dayofweek",
+				"type" : "color",
+				"value" : "0.8509803921568627 0.8509803921568627 0.8509803921568627"
+			},
+			"newproperty9" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 229,
+				"order" : 329,
+				"text" : "ui_editor_properties_date",
+				"type" : "color",
+				"value" : "1 1 1"
+			},
+			"s01a" : 
+			{
+				"condition" : "sappdock.value == true && [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 71,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 171,
+				"text" : "<h4>🟩1",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s01b" : 
+			{
+				"condition" : "sappdock.value == true && s01a.value == 2 && [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 73,
+				"order" : 173,
+				"text" : "<h4>⭕1‎‎",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s01c" : 
+			{
+				"condition" : "sappdock.value == true && [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 72,
+				"order" : 172,
+				"text" : "<h4>🔶1",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s02a" : 
+			{
+				"condition" : "sappdock.value == true && [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 75,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 175,
+				"text" : "<h4>🟩2",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s02b" : 
+			{
+				"condition" : "sappdock.value == true && s02a.value == 2 && [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 77,
+				"order" : 177,
+				"text" : "<h4>⭕‎‎2",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s02c" : 
+			{
+				"condition" : "sappdock.value == true && [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 76,
+				"order" : 176,
+				"text" : "<h4>‎‎🔶2",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s03a" : 
+			{
+				"condition" : "sappdock.value == true && [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 79,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 179,
+				"text" : "<h4>🟩3",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s03b" : 
+			{
+				"condition" : "sappdock.value == true &&s03a.value == 2 &&  [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 81,
+				"order" : 181,
+				"text" : "<h4>‎‎⭕3",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s03c" : 
+			{
+				"condition" : "sappdock.value == true && [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 80,
+				"order" : 180,
+				"text" : "<h4>🔶3",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s04a" : 
+			{
+				"condition" : "sappdock.value == true && [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 83,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 183,
+				"text" : "<h4>🟩4",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s04b" : 
+			{
+				"condition" : "sappdock.value == true && s04a.value == 2 && [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 85,
+				"order" : 185,
+				"text" : "<h4>‎‎⭕4",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s04c" : 
+			{
+				"condition" : "sappdock.value == true && [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 84,
+				"order" : 184,
+				"text" : "<h4>🔶‎‎4",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s05a" : 
+			{
+				"condition" : "sappdock.value == true && [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 87,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 187,
+				"text" : "<h4>🟩5",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s05b" : 
+			{
+				"condition" : "sappdock.value == true && s05a.value == 2 && [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 89,
+				"order" : 189,
+				"text" : "<h4>⭕5",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s05c" : 
+			{
+				"condition" : "sappdock.value == true && [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 88,
+				"order" : 188,
+				"text" : "<h4>🔶5",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s06a" : 
+			{
+				"condition" : "sappdock.value == true && [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 91,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 191,
+				"text" : "<h4>🟩6",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s06b" : 
+			{
+				"condition" : "sappdock.value == true && s06a.value == 2 && [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 93,
+				"order" : 193,
+				"text" : "<h4>‎‎⭕6",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s06c" : 
+			{
+				"condition" : "sappdock.value == true && [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 92,
+				"order" : 192,
+				"text" : "<h4>🔶6",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s07a" : 
+			{
+				"condition" : "sappdock.value == true && [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 95,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 195,
+				"text" : "<h4>🟩7",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s07b" : 
+			{
+				"condition" : "sappdock.value == true && s07a.value == 2 && [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 97,
+				"order" : 197,
+				"text" : "<h4>‎‎⭕7",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s07c" : 
+			{
+				"condition" : "sappdock.value == true && [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 96,
+				"order" : 196,
+				"text" : "<h4>🔶7",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s08a" : 
+			{
+				"condition" : "sappdock.value == true && [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 99,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 199,
+				"text" : "<h4>🟩8",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s08b" : 
+			{
+				"condition" : "sappdock.value == true && s08a.value == 2 && [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 101,
+				"order" : 201,
+				"text" : "<h4>‎‎⭕8",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s08c" : 
+			{
+				"condition" : "sappdock.value == true && [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 100,
+				"order" : 200,
+				"text" : "<h4>🔶8",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s09a" : 
+			{
+				"condition" : "sappdock.value == true && [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 103,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 203,
+				"text" : "<h4>🟩9",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s09b" : 
+			{
+				"condition" : "sappdock.value == true && s09a.value == 2 && [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 105,
+				"order" : 205,
+				"text" : "<h4>‎‎⭕9",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s09c" : 
+			{
+				"condition" : "sappdock.value == true && [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 104,
+				"order" : 204,
+				"text" : "<h4>🔶9",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s10a" : 
+			{
+				"condition" : "sappdock.value == true && [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 107,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 207,
+				"text" : "<h4>🟩10",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s10b" : 
+			{
+				"condition" : "sappdock.value == true && s10a.value == 2 && [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 109,
+				"order" : 209,
+				"text" : "<h4>‎‎⭕10",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s10c" : 
+			{
+				"condition" : "sappdock.value == true && [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 108,
+				"order" : 208,
+				"text" : "<h4>🔶10",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s11a" : 
+			{
+				"condition" : "sappdock.value == true && [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 111,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 211,
+				"text" : "<h4>🟩11",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s11b" : 
+			{
+				"condition" : "sappdock.value == true && s11a.value == 2 && [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 113,
+				"order" : 213,
+				"text" : "<h4>‎‎⭕11",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s11c" : 
+			{
+				"condition" : "sappdock.value == true && [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 112,
+				"order" : 212,
+				"text" : "<h4>🔶11",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s12a" : 
+			{
+				"condition" : "sappdock.value == true && [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 115,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 215,
+				"text" : "<h4>🟩12",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s12b" : 
+			{
+				"condition" : "sappdock.value == true && s12a.value == 2 && [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 117,
+				"order" : 217,
+				"text" : "<h4>‎‎⭕12",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s12c" : 
+			{
+				"condition" : "sappdock.value == true && [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 116,
+				"order" : 216,
+				"text" : "<h4>🔶12",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s13a" : 
+			{
+				"condition" : "sappdock.value == true && [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 119,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 219,
+				"text" : "<h4>🟩13",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s13b" : 
+			{
+				"condition" : "sappdock.value == true && s13a.value == 2 && [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 121,
+				"order" : 221,
+				"text" : "<h4>‎‎⭕13",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s13c" : 
+			{
+				"condition" : "sappdock.value == true && [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 120,
+				"order" : 220,
+				"text" : "<h4>🔶13",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s14a" : 
+			{
+				"condition" : "sappdock.value == true && [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 123,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 223,
+				"text" : "<h4>🟩14",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s14b" : 
+			{
+				"condition" : "sappdock.value == true && s14a.value == 2 && [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 125,
+				"order" : 225,
+				"text" : "<h4>‎‎⭕14",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s14c" : 
+			{
+				"condition" : "sappdock.value == true && [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 124,
+				"order" : 224,
+				"text" : "<h4>🔶14",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s15a" : 
+			{
+				"condition" : "sappdock.value == true && [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 127,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 227,
+				"text" : "<h4>🟩15",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s15b" : 
+			{
+				"condition" : "sappdock.value == true && s15a.value == 2 && [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 129,
+				"order" : 229,
+				"text" : "<h4>‎‎⭕15",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s15c" : 
+			{
+				"condition" : "sappdock.value == true && [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 128,
+				"order" : 228,
+				"text" : "<h4>🔶15",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s16a" : 
+			{
+				"condition" : "sappdock.value == true && [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 131,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 231,
+				"text" : "<h4>🟩16",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s16b" : 
+			{
+				"condition" : "sappdock.value == true && s16a.value == 2 && [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 133,
+				"order" : 233,
+				"text" : "<h4>‎‎⭕16",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s16c" : 
+			{
+				"condition" : "sappdock.value == true && [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 132,
+				"order" : 232,
+				"text" : "<h4>🔶16",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s17a" : 
+			{
+				"condition" : "sappdock.value == true && [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 135,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 235,
+				"text" : "<h4>🟩17",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s17b" : 
+			{
+				"condition" : "sappdock.value == true && s17a.value == 2 && [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 137,
+				"order" : 237,
+				"text" : "<h4>‎‎⭕17",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s17c" : 
+			{
+				"condition" : "sappdock.value == true && [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 136,
+				"order" : 236,
+				"text" : "<h4>🔶17",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s18a" : 
+			{
+				"condition" : "sappdock.value == true && [18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 139,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 239,
+				"text" : "<h4>🟩18",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s18b" : 
+			{
+				"condition" : "sappdock.value == true && s18a.value == 2 && [18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 141,
+				"order" : 241,
+				"text" : "<h4>‎‎⭕18",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s18c" : 
+			{
+				"condition" : "sappdock.value == true && [18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 140,
+				"order" : 240,
+				"text" : "<h4>🔶18",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s19a" : 
+			{
+				"condition" : "sappdock.value == true && [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 143,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 243,
+				"text" : "<h4>🟩19",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s19b" : 
+			{
+				"condition" : "sappdock.value == true && s19a.value == 2 && [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 145,
+				"order" : 245,
+				"text" : "<h4>‎‎⭕19",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s19c" : 
+			{
+				"condition" : "sappdock.value == true && [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 144,
+				"order" : 244,
+				"text" : "<h4>🔶19",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s20a" : 
+			{
+				"condition" : "sappdock.value == true && [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 147,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 247,
+				"text" : "<h4>🟩20",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s20b" : 
+			{
+				"condition" : "sappdock.value == true && s20a.value == 2 && [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 149,
+				"order" : 249,
+				"text" : "<h4>‎‎⭕20",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s20c" : 
+			{
+				"condition" : "sappdock.value == true && [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 148,
+				"order" : 248,
+				"text" : "<h4>🔶20",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s21a" : 
+			{
+				"condition" : "sappdock.value == true && [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 151,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 251,
+				"text" : "<h4>🟩21",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s21b" : 
+			{
+				"condition" : "sappdock.value == true && s21a.value == 2 && [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 153,
+				"order" : 253,
+				"text" : "<h4>‎‎⭕21",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s21c" : 
+			{
+				"condition" : "sappdock.value == true && [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 152,
+				"order" : 252,
+				"text" : "<h4>🔶21",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s22a" : 
+			{
+				"condition" : "sappdock.value == true && [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 155,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 255,
+				"text" : "<h4>🟩22",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s22b" : 
+			{
+				"condition" : "sappdock.value == true && s22a.value == 2 && [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 157,
+				"order" : 257,
+				"text" : "<h4>‎‎⭕22",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s22c" : 
+			{
+				"condition" : "sappdock.value == true && [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 156,
+				"order" : 256,
+				"text" : "<h4>🔶22",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s23a" : 
+			{
+				"condition" : "sappdock.value == true && [23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 159,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 259,
+				"text" : "<h4>🟩23",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s23b" : 
+			{
+				"condition" : "sappdock.value == true && s23a.value == 2 && [23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 161,
+				"order" : 261,
+				"text" : "<h4>‎‎⭕23",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s23c" : 
+			{
+				"condition" : "sappdock.value == true && [23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 160,
+				"order" : 260,
+				"text" : "<h4>🔶23",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s24a" : 
+			{
+				"condition" : "sappdock.value == true && [24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 162,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 262,
+				"text" : "<h4>🟩24",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s24b" : 
+			{
+				"condition" : "sappdock.value == true && s24a.value == 2 && [24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 165,
+				"order" : 265,
+				"text" : "<h4>‎‎⭕24",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s24c" : 
+			{
+				"condition" : "sappdock.value == true && [24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 164,
+				"order" : 264,
+				"text" : "<h4>🔶24",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s25a" : 
+			{
+				"condition" : "sappdock.value == true && [25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 167,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 267,
+				"text" : "<h4>🟩25",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s25b" : 
+			{
+				"condition" : "sappdock.value == true && s25a.value == 2 && [25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 169,
+				"order" : 269,
+				"text" : "<h4>‎‎⭕25",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s25c" : 
+			{
+				"condition" : "sappdock.value == true && [25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 168,
+				"order" : 268,
+				"text" : "<h4>🔶25",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s26a" : 
+			{
+				"condition" : "sappdock.value == true && [26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 171,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 271,
+				"text" : "<h4>🟩26",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s26b" : 
+			{
+				"condition" : "sappdock.value == true && s26a.value == 2 && [26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 173,
+				"order" : 273,
+				"text" : "<h4>‎‎⭕26",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s26c" : 
+			{
+				"condition" : "sappdock.value == true && [26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 172,
+				"order" : 272,
+				"text" : "<h4>🔶26",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s27a" : 
+			{
+				"condition" : "sappdock.value == true && [27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 175,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 275,
+				"text" : "<h4>🟩27",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s27b" : 
+			{
+				"condition" : "sappdock.value == true && s27a.value == 2 && [27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 177,
+				"order" : 277,
+				"text" : "<h4>‎‎⭕27",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s27c" : 
+			{
+				"condition" : "sappdock.value == true && [27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 176,
+				"order" : 276,
+				"text" : "<h4>🔶27",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s28a" : 
+			{
+				"condition" : "sappdock.value == true && [28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 179,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 279,
+				"text" : "<h4>🟩28",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s28b" : 
+			{
+				"condition" : "sappdock.value == true && s28a.value == 2 && [28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 181,
+				"order" : 281,
+				"text" : "<h4>‎‎⭕28",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s28c" : 
+			{
+				"condition" : "sappdock.value == true && [28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 180,
+				"order" : 280,
+				"text" : "<h4>🔶28",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s29a" : 
+			{
+				"condition" : "sappdock.value == true && [29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 183,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 283,
+				"text" : "<h4>🟩29",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s29b" : 
+			{
+				"condition" : "sappdock.value == true && s29a.value == 2 && [29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 185,
+				"order" : 285,
+				"text" : "<h4>‎‎⭕29",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s29c" : 
+			{
+				"condition" : "sappdock.value == true && [29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 184,
+				"order" : 284,
+				"text" : "<h4>🔶29",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s30a" : 
+			{
+				"condition" : "sappdock.value == true && [30, 31, 32].includes(siocnum.value)",
+				"index" : 187,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 287,
+				"text" : "<h4>🟩30",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s30b" : 
+			{
+				"condition" : "sappdock.value == true && s30a.value == 2 && [30, 31, 32].includes(siocnum.value)",
+				"index" : 189,
+				"order" : 289,
+				"text" : "<h4>‎‎⭕30",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s30c" : 
+			{
+				"condition" : "sappdock.value == true && [30, 31, 32].includes(siocnum.value)",
+				"index" : 188,
+				"order" : 288,
+				"text" : "<h4>🔶30",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s31a" : 
+			{
+				"condition" : "sappdock.value == true && [31, 32].includes(siocnum.value)",
+				"index" : 191,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 291,
+				"text" : "<h4>🟩31",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s31b" : 
+			{
+				"condition" : "sappdock.value == true && s31a.value == 2 && [31, 32].includes(siocnum.value)",
+				"index" : 193,
+				"order" : 293,
+				"text" : "<h4>‎‎⭕31",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s31c" : 
+			{
+				"condition" : "sappdock.value == true && [31, 32].includes(siocnum.value)",
+				"index" : 192,
+				"order" : 292,
+				"text" : "<h4>🔶31",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"s32a" : 
+			{
+				"condition" : "sappdock.value == true && [32].includes(siocnum.value)",
+				"index" : 195,
+				"options" : 
+				[
+					{
+						"label" : "ui_browse_context_menu_default",
+						"value" : "1"
+					},
+					{
+						"label" : "ui_workshop_tags_customizable",
+						"value" : "2"
+					}
+				],
+				"order" : 295,
+				"text" : "<h4>🟩32",
+				"type" : "combo",
+				"value" : "1"
+			},
+			"s32b" : 
+			{
+				"condition" : "sappdock.value == true && s32a.value == 2 && [32].includes(siocnum.value)",
+				"index" : 197,
+				"order" : 297,
+				"text" : "<h4>‎‎⭕32",
+				"type" : "scenetexture",
+				"value" : ""
+			},
+			"s32c" : 
+			{
+				"condition" : "sappdock.value == true && [32].includes(siocnum.value)",
+				"index" : 196,
+				"order" : 296,
+				"text" : "<h4>🔶32",
+				"type" : "usershortcut",
+				"value" : ""
+			},
+			"sappdock" : 
+			{
+				"index" : 36,
+				"order" : 136,
+				"text" : "Dock",
+				"type" : "bool",
+				"value" : true
+			},
+			"schemecolor" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"shuoming" : 
+			{
+				"index" : 309,
+				"order" : 409,
+				"text" : "<hr> <h4> <a href=''>     <h4>         此壁纸由【Hope麻匪】制作 <br>         Steam 版 Wallpaper Engine 专用     </h4>     <h4>         壁纸免费 禁止售卖     </h4> </a> <h6> 禁止 中国大陆内 任何壁纸软件使用 <br> 包括：软件,App,小程序,网页,视频带货笔记本作为显示宣传</h6><a href=''>     <h4>This Wallpaper is dedicated to the Steam edition of the Wallpaper Engine</h4>     <h4>Wallpapers are completely free and are not allowed to be sold</h4> </a> <br> </h4> <h4> 感 谢 您 的 使 用 </h4> </h4>Thank you for using</h4>",
+				"type" : "text",
+				"value" : false
+			},
+			"siocnum" : 
+			{
+				"condition" : "sappdock.value == true",
+				"fraction" : false,
+				"index" : 69,
+				"max" : 32,
+				"min" : 1,
+				"order" : 169,
+				"text" : "ui_editor_scene_options_camera_parallax_amount",
+				"type" : "slider",
+				"value" : 8
+			},
+			"skd00" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 70,
+				"order" : 170,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd01" : 
+			{
+				"condition" : "sappdock.value == true && [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 74,
+				"order" : 174,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd02" : 
+			{
+				"condition" : "sappdock.value == true && [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 78,
+				"order" : 178,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd03" : 
+			{
+				"condition" : "sappdock.value == true && [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 82,
+				"order" : 182,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd04" : 
+			{
+				"condition" : "sappdock.value == true && [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 86,
+				"order" : 186,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd05" : 
+			{
+				"condition" : "sappdock.value == true && [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 90,
+				"order" : 190,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd06" : 
+			{
+				"condition" : "sappdock.value == true && [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 94,
+				"order" : 194,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd07" : 
+			{
+				"condition" : "sappdock.value == true && [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 98,
+				"order" : 198,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd08" : 
+			{
+				"condition" : "sappdock.value == true && [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 102,
+				"order" : 202,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd09" : 
+			{
+				"condition" : "sappdock.value == true && [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 106,
+				"order" : 206,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd10" : 
+			{
+				"condition" : "sappdock.value == true && [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 110,
+				"order" : 210,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd11" : 
+			{
+				"condition" : "sappdock.value == true && [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 114,
+				"order" : 214,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd12" : 
+			{
+				"condition" : "sappdock.value == true && [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 118,
+				"order" : 218,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd13" : 
+			{
+				"condition" : "sappdock.value == true && [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 122,
+				"order" : 222,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd14" : 
+			{
+				"condition" : "sappdock.value == true && [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 126,
+				"order" : 226,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd15" : 
+			{
+				"condition" : "sappdock.value == true && [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 130,
+				"order" : 230,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd16" : 
+			{
+				"condition" : "sappdock.value == true && [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 134,
+				"order" : 234,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd17" : 
+			{
+				"condition" : "sappdock.value == true && [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 138,
+				"order" : 238,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd18" : 
+			{
+				"condition" : "sappdock.value == true && [18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 142,
+				"order" : 242,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd19" : 
+			{
+				"condition" : "sappdock.value == true && [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 146,
+				"order" : 246,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd20" : 
+			{
+				"condition" : "sappdock.value == true && [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 150,
+				"order" : 250,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd21" : 
+			{
+				"condition" : "sappdock.value == true && [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 154,
+				"order" : 254,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd22" : 
+			{
+				"condition" : "sappdock.value == true && [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 158,
+				"order" : 258,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd23" : 
+			{
+				"condition" : "sappdock.value == true && [23, 24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 163,
+				"order" : 263,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd24" : 
+			{
+				"condition" : "sappdock.value == true && [24, 25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 166,
+				"order" : 266,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd25" : 
+			{
+				"condition" : "sappdock.value == true && [25, 26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 170,
+				"order" : 270,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd26" : 
+			{
+				"condition" : "sappdock.value == true && [26, 27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 174,
+				"order" : 274,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd27" : 
+			{
+				"condition" : "sappdock.value == true && [27, 28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 178,
+				"order" : 278,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd28" : 
+			{
+				"condition" : "sappdock.value == true && [28, 29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 182,
+				"order" : 282,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd29" : 
+			{
+				"condition" : "sappdock.value == true && [29, 30, 31, 32].includes(siocnum.value)",
+				"index" : 186,
+				"order" : 286,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd30" : 
+			{
+				"condition" : "sappdock.value == true && [30, 31, 32].includes(siocnum.value)",
+				"index" : 190,
+				"order" : 290,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd31" : 
+			{
+				"condition" : "sappdock.value == true && [31, 32].includes(siocnum.value)",
+				"index" : 194,
+				"order" : 294,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"skd32" : 
+			{
+				"condition" : "sappdock.value == true && [32].includes(siocnum.value)",
+				"index" : 198,
+				"order" : 298,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"ske01" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 39,
+				"order" : 139,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"ske02" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 40,
+				"order" : 140,
+				"text" : "<font color=#4183F5><h5>鼠标移开时隐藏<br>Hide when the mouse moves away</h5> <font color=#F8312F><h6>建议设置完毕后再开启<br>防止设置时自动隐藏影响操作<br> It is recommended to turn it on after the settings are completed to prevent the automatic hiding during the setting process from affecting the operation.</h6>",
+				"type" : "text",
+				"value" : false
+			},
+			"ske03" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 43,
+				"order" : 143,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"ske04" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 44,
+				"order" : 144,
+				"text" : "<font color=#4183F5><h5>Dock栏 背景<br> Dock bar background",
+				"type" : "text",
+				"value" : false
+			},
+			"ske05" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 49,
+				"order" : 149,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"ske06" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 50,
+				"order" : 150,
+				"text" : "<font color=#4183F5><h5>点击底部条 拖拽移动整体位置<br>Click the bottom bar to drag and move the entire position.</h5>",
+				"type" : "text",
+				"value" : false
+			},
+			"ske07" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 56,
+				"order" : 156,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"ske08" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 57,
+				"order" : 157,
+				"text" : "<font color=#4183F5><h5>鼠标悬停 动画设置<br>Mouse hover animation settings</h5>",
+				"type" : "text",
+				"value" : false
+			},
+			"ske09" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 66,
+				"order" : 166,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"ske10" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 67,
+				"order" : 167,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"ske11" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 68,
+				"order" : 168,
+				"text" : "<font color=#F8312F> <h4>应用于桌面 显示启动应用数量</h4>     <h5>Show the number of launched applications<br>🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻🔻</h5>",
+				"type" : "text",
+				"value" : false
+			},
+			"ske13" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 64,
+				"order" : 164,
+				"text" : "<font color=#4183F5><h5>按住图标0.33秒 支持单个图标拖拽移动位置 <br>Hold the icon for 0.33 seconds, and dragging a single icon to move its position is supported.</h5>",
+				"type" : "text",
+				"value" : false
+			},
+			"ske14" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 63,
+				"order" : 163,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"snewproperty" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 41,
+				"order" : 141,
+				"text" : "自动隐藏 Auto Hide",
+				"type" : "bool",
+				"value" : false
+			},
+			"snewproperty1" : 
+			{
+				"condition" : "sappdock.value == true&&snewproperty.value == true",
+				"fraction" : true,
+				"index" : 42,
+				"max" : 10,
+				"min" : 1,
+				"order" : 142,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "自动隐藏 hide time",
+				"type" : "slider",
+				"value" : 3.5
+			},
+			"snewproperty10" : 
+			{
+				"condition" : "sappdock.value == true&&snewproperty18.value !=0",
+				"index" : 47,
+				"order" : 147,
+				"text" : "ui_browse_properties_background_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"snewproperty11" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 65,
+				"order" : 165,
+				"text" : "ui_editor_script_snippet_click_wiggle",
+				"type" : "bool",
+				"value" : true
+			},
+			"snewproperty12" : 
+			{
+				"condition" : "sappdock.value == true&&snewproperty18.value !=0",
+				"fraction" : true,
+				"index" : 48,
+				"max" : 10,
+				"min" : 0,
+				"order" : 148,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_browse_playlist_modal_settings_transition_circular",
+				"type" : "slider",
+				"value" : 0.3
+			},
+			"snewproperty13" : 
+			{
+				"condition" : "sappdock.value == true&&snewproperty9.value == true",
+				"fraction" : true,
+				"index" : 53,
+				"max" : 1,
+				"min" : 0,
+				"order" : 153,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_alpha",
+				"type" : "slider",
+				"value" : 0.35
+			},
+			"snewproperty14" : 
+			{
+				"condition" : "sappdock.value == true&&snewproperty9.value == true",
+				"index" : 52,
+				"order" : 152,
+				"text" : "ui_browse_properties_background_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"snewproperty15" : 
+			{
+				"condition" : "sappdock.value == true&&snewproperty9.value == true",
+				"fraction" : true,
+				"index" : 54,
+				"max" : 2,
+				"min" : 0,
+				"order" : 154,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_browse_playlist_modal_settings_transition_circular",
+				"type" : "slider",
+				"value" : 2
+			},
+			"snewproperty16" : 
+			{
+				"condition" : "sappdock.value == true",
+				"fraction" : true,
+				"index" : 45,
+				"max" : 1,
+				"min" : 0.1,
+				"order" : 145,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_distance_inner",
+				"type" : "slider",
+				"value" : 0.2
+			},
+			"snewproperty17" : 
+			{
+				"condition" : "sappdock.value == true",
+				"fraction" : true,
+				"index" : 38,
+				"max" : 1,
+				"min" : 0,
+				"order" : 138,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "<br>图标距离<br>icon distance<br><br>",
+				"type" : "slider",
+				"value" : 0.3
+			},
+			"snewproperty18" : 
+			{
+				"condition" : "sappdock.value == true",
+				"fraction" : true,
+				"index" : 46,
+				"max" : 1,
+				"min" : 0,
+				"order" : 146,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_alpha",
+				"type" : "slider",
+				"value" : 0.35
+			},
+			"snewproperty2" : 
+			{
+				"condition" : "sappdock.value == true",
+				"fraction" : true,
+				"index" : 37,
+				"max" : 1.5,
+				"min" : 0.3,
+				"order" : 137,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "ui_editor_properties_size",
+				"type" : "slider",
+				"value" : 0.8
+			},
+			"snewproperty3" : 
+			{
+				"condition" : "sappdock.value == true",
+				"fraction" : true,
+				"index" : 58,
+				"max" : 4,
+				"min" : 1,
+				"order" : 158,
+				"precision" : 2,
+				"step" : 0.1,
+				"text" : "<br>鼠标悬停图标大小<br>Mouse hover size<br><br>",
+				"type" : "slider",
+				"value" : 1.8
+			},
+			"snewproperty4" : 
+			{
+				"condition" : "sappdock.value == true",
+				"fraction" : true,
+				"index" : 59,
+				"max" : 1,
+				"min" : 0.1,
+				"order" : 159,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "<br>光标触发半径<br>Trigger cursor radius<br><br>",
+				"type" : "slider",
+				"value" : 0.28
+			},
+			"snewproperty5" : 
+			{
+				"condition" : "sappdock.value == true&&snewproperty9.value == true",
+				"fraction" : false,
+				"index" : 55,
+				"max" : 30,
+				"min" : 3,
+				"order" : 155,
+				"text" : "<br><br>边缘对齐阈值<br>Edge alignment threshold <font color=#4183F5><h6>当停靠栏位于画布边缘时 以百分比范围做出横向或者竖向改变<br>When the dock is located at the edge of the canvas, make horizontal or vertical changes within a percentage range.",
+				"type" : "slider",
+				"value" : 10
+			},
+			"snewproperty6" : 
+			{
+				"condition" : "sappdock.value == true",
+				"fraction" : false,
+				"index" : 60,
+				"max" : 120,
+				"min" : 20,
+				"order" : 160,
+				"text" : "<br>跳跃高度 Jump height<br><br>",
+				"type" : "slider",
+				"value" : 48
+			},
+			"snewproperty7" : 
+			{
+				"condition" : "sappdock.value == true",
+				"fraction" : false,
+				"index" : 61,
+				"max" : 10,
+				"min" : 1,
+				"order" : 161,
+				"text" : "<br>弹跳次数 Number of bounces<br><br>",
+				"type" : "slider",
+				"value" : 4
+			},
+			"snewproperty8" : 
+			{
+				"condition" : "sappdock.value == true",
+				"fraction" : true,
+				"index" : 62,
+				"max" : 8,
+				"min" : 0.3,
+				"order" : 162,
+				"precision" : 3,
+				"step" : 0.01,
+				"text" : "<br>持续时间  Duration<br><br>",
+				"type" : "slider",
+				"value" : 1.2
+			},
+			"snewproperty9" : 
+			{
+				"condition" : "sappdock.value == true",
+				"index" : 51,
+				"order" : 151,
+				"text" : "ui_editor_script_snippet_drag_drop",
+				"type" : "bool",
+				"value" : true
+			},
+			"snewpropertys" : 
+			{
+				"condition" : "",
+				"index" : 35,
+				"order" : 135,
+				"text" : "<h3>🪟Dock 启动栏</h3>",
+				"type" : "text",
+				"value" : false
+			},
+			"text1" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 224,
+				"options" : 
+				[
+					{
+						"label" : "1",
+						"value" : "1"
+					},
+					{
+						"label" : "2",
+						"value" : "2"
+					},
+					{
+						"label" : "3",
+						"value" : "3"
+					},
+					{
+						"label" : "4",
+						"value" : "4"
+					},
+					{
+						"label" : "5",
+						"value" : "5"
+					},
+					{
+						"label" : "6",
+						"value" : "6"
+					},
+					{
+						"label" : "7",
+						"value" : "7"
+					},
+					{
+						"label" : "8",
+						"value" : "8"
+					},
+					{
+						"label" : "9",
+						"value" : "9"
+					},
+					{
+						"label" : "10",
+						"value" : "10"
+					},
+					{
+						"label" : "11",
+						"value" : "11"
+					},
+					{
+						"label" : "12",
+						"value" : "12"
+					},
+					{
+						"label" : "13",
+						"value" : "13"
+					},
+					{
+						"label" : "14",
+						"value" : "14"
+					},
+					{
+						"label" : "15",
+						"value" : "15"
+					},
+					{
+						"label" : "16",
+						"value" : "16"
+					},
+					{
+						"label" : "17",
+						"value" : "17"
+					},
+					{
+						"label" : "18",
+						"value" : "18"
+					},
+					{
+						"label" : "19",
+						"value" : "19"
+					},
+					{
+						"label" : "20",
+						"value" : "20"
+					},
+					{
+						"label" : "21",
+						"value" : "21"
+					},
+					{
+						"label" : "22",
+						"value" : "22"
+					},
+					{
+						"label" : "23",
+						"value" : "23"
+					},
+					{
+						"label" : "24",
+						"value" : "24"
+					},
+					{
+						"label" : "25",
+						"value" : "25"
+					},
+					{
+						"label" : "26",
+						"value" : "26"
+					},
+					{
+						"label" : "27",
+						"value" : "27"
+					},
+					{
+						"label" : "28",
+						"value" : "28"
+					},
+					{
+						"label" : "29",
+						"value" : "29"
+					},
+					{
+						"label" : "30",
+						"value" : "30"
+					},
+					{
+						"label" : "31",
+						"value" : "31"
+					}
+				],
+				"order" : 324,
+				"text" : "ui_editor_properties_font",
+				"type" : "combo",
+				"value" : "2"
+			},
+			"text3" : 
+			{
+				"condition" : "newproperty54.value",
+				"index" : 205,
+				"options" : 
+				[
+					{
+						"label" : "1",
+						"value" : "1"
+					},
+					{
+						"label" : "2",
+						"value" : "2"
+					},
+					{
+						"label" : "3",
+						"value" : "3"
+					},
+					{
+						"label" : "4",
+						"value" : "4"
+					},
+					{
+						"label" : "5",
+						"value" : "5"
+					},
+					{
+						"label" : "6",
+						"value" : "6"
+					},
+					{
+						"label" : "7",
+						"value" : "7"
+					},
+					{
+						"label" : "8",
+						"value" : "8"
+					},
+					{
+						"label" : "9",
+						"value" : "9"
+					},
+					{
+						"label" : "10",
+						"value" : "10"
+					},
+					{
+						"label" : "11",
+						"value" : "11"
+					},
+					{
+						"label" : "12",
+						"value" : "12"
+					},
+					{
+						"label" : "13",
+						"value" : "13"
+					},
+					{
+						"label" : "14",
+						"value" : "14"
+					},
+					{
+						"label" : "15",
+						"value" : "15"
+					},
+					{
+						"label" : "16",
+						"value" : "16"
+					},
+					{
+						"label" : "17",
+						"value" : "17"
+					},
+					{
+						"label" : "18",
+						"value" : "18"
+					},
+					{
+						"label" : "19",
+						"value" : "19"
+					},
+					{
+						"label" : "20",
+						"value" : "20"
+					},
+					{
+						"label" : "21",
+						"value" : "21"
+					},
+					{
+						"label" : "22",
+						"value" : "22"
+					},
+					{
+						"label" : "23",
+						"value" : "23"
+					},
+					{
+						"label" : "24",
+						"value" : "24"
+					},
+					{
+						"label" : "25",
+						"value" : "25"
+					},
+					{
+						"label" : "26",
+						"value" : "26"
+					},
+					{
+						"label" : "27",
+						"value" : "27"
+					},
+					{
+						"label" : "28",
+						"value" : "28"
+					},
+					{
+						"label" : "29",
+						"value" : "29"
+					},
+					{
+						"label" : "30",
+						"value" : "30"
+					}
+				],
+				"order" : 305,
+				"text" : "ui_editor_properties_font",
+				"type" : "combo",
+				"value" : "29"
+			},
+			"text4" : 
+			{
+				"condition" : "newproperty31.value",
+				"index" : 301,
+				"options" : 
+				[
+					{
+						"label" : "1",
+						"value" : "1"
+					},
+					{
+						"label" : "2",
+						"value" : "2"
+					},
+					{
+						"label" : "3",
+						"value" : "3"
+					},
+					{
+						"label" : "4",
+						"value" : "4"
+					},
+					{
+						"label" : "5",
+						"value" : "5"
+					},
+					{
+						"label" : "6",
+						"value" : "6"
+					},
+					{
+						"label" : "7",
+						"value" : "7"
+					},
+					{
+						"label" : "8",
+						"value" : "8"
+					},
+					{
+						"label" : "9",
+						"value" : "9"
+					},
+					{
+						"label" : "10",
+						"value" : "10"
+					},
+					{
+						"label" : "11",
+						"value" : "11"
+					},
+					{
+						"label" : "12",
+						"value" : "12"
+					},
+					{
+						"label" : "13",
+						"value" : "13"
+					},
+					{
+						"label" : "14",
+						"value" : "14"
+					},
+					{
+						"label" : "15",
+						"value" : "15"
+					},
+					{
+						"label" : "16",
+						"value" : "16"
+					},
+					{
+						"label" : "17",
+						"value" : "17"
+					},
+					{
+						"label" : "18",
+						"value" : "18"
+					},
+					{
+						"label" : "19",
+						"value" : "19"
+					},
+					{
+						"label" : "20",
+						"value" : "20"
+					},
+					{
+						"label" : "21",
+						"value" : "21"
+					},
+					{
+						"label" : "22",
+						"value" : "22"
+					},
+					{
+						"label" : "23",
+						"value" : "23"
+					},
+					{
+						"label" : "24",
+						"value" : "24"
+					},
+					{
+						"label" : "25",
+						"value" : "25"
+					},
+					{
+						"label" : "26",
+						"value" : "26"
+					},
+					{
+						"label" : "27",
+						"value" : "27"
+					},
+					{
+						"label" : "28",
+						"value" : "28"
+					},
+					{
+						"label" : "29",
+						"value" : "29"
+					},
+					{
+						"label" : "30",
+						"value" : "30"
+					}
+				],
+				"order" : 401,
+				"text" : "ui_editor_properties_font",
+				"type" : "combo",
+				"value" : "30"
+			},
+			"ui_editor_properties_use_24h_format" : 
+			{
+				"condition" : "newproperty54.value",
+				"index" : 202,
+				"order" : 302,
+				"text" : "ui_editor_properties_use_24h_format",
+				"type" : "bool",
+				"value" : true
+			},
+			"zanzhu" : 
+			{
+				"index" : 6,
+				"order" : 106,
+				"text" : "<h4>➖➖➖➖➖➖➖➖➖➖<br />💷💶 【赞 助 麻 匪】💵 💴<br />💸 Sponsorship Mafei 💸<br />➖➖➖➖➖➖➖➖➖➖</h4>",
+				"type" : "bool",
+				"value" : false
+			},
+			"zhizuozhe1" : 
+			{
+				"index" : 2,
+				"order" : 102,
+				"text" : "<h4><b>动 态 壁 纸 制 作 者 ™🔖<h4/><h5>🔻🔻Dynamic made by HopeMaFei ™<b/><h5/>",
+				"type" : "text",
+				"value" : false
+			},
+			"zong1" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 220,
+				"order" : 320,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"zong10" : 
+			{
+				"index" : 21,
+				"order" : 121,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"zong11" : 
+			{
+				"index" : 22,
+				"order" : 122,
+				"text" : "<h3>🧫背景效果 Back Effect</h3>",
+				"type" : "text",
+				"value" : false
+			},
+			"zong12" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 252,
+				"order" : 352,
+				"text" : "<font color=#4183F5><h5>📍进度条相关 Progress Bar Relate <font color=#F8312F><h6>关于进度条功能：并非所有媒体播放器都支持此功能<br> 根据2025测试结果报告：<br>正版播放器多数不支持 反倒是一些开源的第三方播放器支持💀<br><br> Regarding the progress bar function: Not all media players support this feature.<br> According to the test results report in 2025: Most legitimate players do not support it, while some open - source third - party players do.💀",
+				"type" : "text",
+				"value" : false
+			},
+			"zong13" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 244,
+				"order" : 344,
+				"text" : "<font color=#4183F5><h5>🖼️封面相关 Cover Related",
+				"type" : "text",
+				"value" : false
+			},
+			"zong2" : 
+			{
+				"condition" : "newproperty11.value",
+				"index" : 214,
+				"order" : 314,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"zong3" : 
+			{
+				"condition" : "newproperty23.value",
+				"index" : 269,
+				"order" : 369,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"zong4" : 
+			{
+				"condition" : "newproperty54.value",
+				"index" : 204,
+				"order" : 304,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"zong5" : 
+			{
+				"condition" : "newproperty49.value",
+				"index" : 290,
+				"order" : 390,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"zong6" : 
+			{
+				"condition" : "newproperty31.value",
+				"index" : 303,
+				"order" : 403,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"zong7" : 
+			{
+				"condition" : "newproperty60.value",
+				"index" : 279,
+				"order" : 379,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"zong8" : 
+			{
+				"condition" : "newproperty60.value",
+				"index" : 275,
+				"order" : 375,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			},
+			"zong9" : 
+			{
+				"condition" : "newproperty49.value",
+				"index" : 286,
+				"order" : 386,
+				"text" : "",
+				"type" : "text",
+				"value" : false
+			}
+		},
+		"supportsaudioprocessing" : true,
+		"supportsvideo" : true,
+		"supportsvideoflags" : 2
+	},
+	"preview" : "preview.gif",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Technology" ],
+	"title" : "麻匪 Dock2 多组件交互壁纸 Component module",
+	"type" : "scene",
+	"version" : 8,
+	"visibility" : "public",
+	"workshopid" : "3599498791",
+	"workshopurl" : "steam://url/CommunityFilePage/3599498791"
+}

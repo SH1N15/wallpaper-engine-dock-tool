@@ -1,0 +1,18 @@
+{
+	"dependencies" : 
+	[
+		"materials/workshop/3578699527/effects/audioline.json",
+		"shaders/workshop/3578699527/effects/audioline.frag",
+		"shaders/workshop/3578699527/effects/audioline.vert"
+	],
+	"group" : "localeffects",
+	"name" : "audioline",
+	"passes" : 
+	[
+		{
+			"material" : "materials/workshop/3578699527/effects/audioline.json"
+		}
+	],
+	"replacementkey" : "audioline",
+	"version" : 1
+}

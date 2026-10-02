@@ -1,0 +1,25 @@
+{
+	"passes" : 
+	[
+		{
+			"alphawriting" : "default",
+			"blending" : "translucent",
+			"combos" : 
+			{
+				"VERSION" : 2
+			},
+			"cullmode" : "nocull",
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "genericimage2",
+			"textures" : [ "workshop/2962751255/封面默认" ],
+			"usertextures" : 
+			[
+				{
+					"name" : "$mediaThumbnail",
+					"type" : "system"
+				}
+			]
+		}
+	]
+}

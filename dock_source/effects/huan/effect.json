@@ -1,0 +1,19 @@
+{
+	"dependencies" : 
+	[
+		"materials/effects/huan.json",
+		"shaders/effects/huan.frag",
+		"shaders/effects/huan.vert"
+	],
+	"editable" : true,
+	"group" : "localeffects",
+	"name" : "huan",
+	"passes" : 
+	[
+		{
+			"material" : "materials/effects/huan.json"
+		}
+	],
+	"replacementkey" : "huan",
+	"version" : 1
+}

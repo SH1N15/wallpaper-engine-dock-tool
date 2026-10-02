@@ -1,0 +1,18 @@
+{
+	"dependencies" : 
+	[
+		"materials/workshop/3594421060/effects/rounded_mask_effect_edit.json",
+		"shaders/workshop/3594421060/effects/rounded_mask_effect_edit.frag",
+		"shaders/workshop/3594421060/effects/rounded_mask_effect_edit.vert"
+	],
+	"group" : "localeffects",
+	"name" : "Rounded Mask Effect EDIT",
+	"passes" : 
+	[
+		{
+			"material" : "materials/workshop/3594421060/effects/rounded_mask_effect_edit.json"
+		}
+	],
+	"replacementkey" : "rounded_mask_effect_edit",
+	"version" : 1
+}

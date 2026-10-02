@@ -1,0 +1,36 @@
+{
+	"dependencies" : 
+	[
+		"materials/workshop/2906937488/effects/procedural_noise.json",
+		"shaders/workshop/2906937488/effects/procedural_noise.frag",
+		"shaders/workshop/2906937488/effects/procedural_noise.vert"
+	],
+	"editable" : false,
+	"gizmos" : 
+	[
+		{
+			"condition" : 
+			{
+				"PERSPSWITCH" : 1
+			},
+			"type" : "EffectPerspectiveUV",
+			"vars" : 
+			{
+				"p0" : "point0",
+				"p1" : "point1",
+				"p2" : "point2",
+				"p3" : "point3"
+			}
+		}
+	],
+	"group" : "localeffects",
+	"name" : "Procedural noise",
+	"passes" : 
+	[
+		{
+			"material" : "materials/workshop/2906937488/effects/procedural_noise.json"
+		}
+	],
+	"replacementkey" : "procedural_noise",
+	"version" : 1
+}

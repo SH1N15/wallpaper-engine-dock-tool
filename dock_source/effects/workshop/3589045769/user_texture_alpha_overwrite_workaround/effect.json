@@ -1,0 +1,18 @@
+{
+	"dependencies" : 
+	[
+		"materials/workshop/3589045769/effects/user_texture_alpha_overwrite_workaround.json",
+		"shaders/workshop/3589045769/effects/user_texture_alpha_overwrite_workaround.frag",
+		"shaders/workshop/3589045769/effects/user_texture_alpha_overwrite_workaround.vert"
+	],
+	"group" : "localeffects",
+	"name" : "User Texture Alpha Overwrite Workaround",
+	"passes" : 
+	[
+		{
+			"material" : "materials/workshop/3589045769/effects/user_texture_alpha_overwrite_workaround.json"
+		}
+	],
+	"replacementkey" : "user_texture_alpha_overwrite_workaround",
+	"version" : 1
+}
