@@ -29,6 +29,8 @@ dock_tool.py — 给任意 Wallpaper Engine「场景类」壁纸一键添加 Lau
 """
 import json, os, re, shutil, struct, sys
 
+__version__ = '1.0.0'
+
 # ---- 固定路径 ---------------------------------------------------------------
 TOOL_DIR      = os.path.dirname(os.path.abspath(__file__))
 DOCK_CACHE    = os.path.join(TOOL_DIR, 'dock_source')     # Dock 资源缓存(随工具携带, 无需订阅源壁纸)
