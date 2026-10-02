@@ -7,7 +7,7 @@ dock_tool.py — 给任意 Wallpaper Engine「场景类」壁纸一键添加 Lau
     python dock_tool.py <壁纸项目目录> [--from <已有Dock壁纸>] [--out <输出目录名>] [--we <WE安装目录>]
 
     python dock_tool.py "E:\steam\steamapps\workshop\content\431960\xxxxxxxx"
-    python dock_tool.py "E:\steam\steamapps\workshop\content\431960\xxxxxxxx" --from "艾莉丝 黄昏 Dock版"
+    python dock_tool.py "E:\steam\steamapps\workshop\content\431960\xxxxxxxx" --from 已有Dock壁纸名
 
 说明:
     * 目标壁纸可以是散装工程(含 scene.json)或 scene.pkg 打包工程, 输出一律为
